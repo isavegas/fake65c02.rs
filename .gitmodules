@@ -1,0 +1,3 @@
+[submodule "fake65c02-sys"]
+	path = fake65c02-sys
+	url = git@github.com:isavegas/fake65c02-sys.rs.git
